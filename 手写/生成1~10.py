@@ -1,7 +1,7 @@
 
 import os
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 import torch
 import torch.nn as nn
@@ -282,4 +282,4 @@ if __name__ == "__main__":
     plt.axis('off')
     plt.imshow(sample_grid.permute(1, 2, 0).cpu(), vmin=0., vmax=1.)
     plt.show()
-    plt.savefig('./fig/UNet-based_diffusion.png')
+    plt.savefig('./rec.png')

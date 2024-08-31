@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="pytorch118 (3)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="pytorch118 (3)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.12.4 (sftp://dyy@222.19.236.156:6012/data_disk/dyy/miniconda3/envs/Wz/bin/python3.12)" project-jdk-type="Python SDK" />
 </project>

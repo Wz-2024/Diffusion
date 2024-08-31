@@ -6,3 +6,6 @@ else:
     device = 'cpu'
 
 print(device)
+
+from datasets import tqdm
+print(3)
