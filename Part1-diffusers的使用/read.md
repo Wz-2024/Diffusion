@@ -1,1 +1,1 @@
-# 这里内存不够,下不了hugginface的模块
+# 使用不带索引的venv环境,stable-diffusion保存在/data_disk/dyy/models
