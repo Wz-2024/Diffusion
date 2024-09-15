@@ -1,9 +1,13 @@
+import torch
+import requests
+from PIL import Image
+from io import BytesIO
+from matplotlib import pyplot as plt
+from diffusers import StableDiffusionXLPipeline
+import os
 
+from torch.utils.tensorboard.summary import image
 
-def plus(a):
-    for i in range(10):
-        a.append(i)
-a=[]
-if __name__ == '__main__':
-    plus(a)
-    print(a)
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+device = "cuda" if torch.cuda.is_available() else "cpu"
+print(device)
