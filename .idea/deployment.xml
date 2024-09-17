@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="dyy@222.19.236.156:6012 password (14)" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dyy@222.19.236.156:6012 password (36)" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="dyy@222.19.236.156:6012 password">
         <serverdata>
@@ -160,6 +160,55 @@
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dyy@222.19.236.156:6012 password (30)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_113" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dyy@222.19.236.156:6012 password (31)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_141" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dyy@222.19.236.156:6012 password (32)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dyy@222.19.236.156:6012 password (33)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dyy@222.19.236.156:6012 password (34)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_74" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dyy@222.19.236.156:6012 password (35)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data_disk/dyy/python_projects/write_diffusion" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dyy@222.19.236.156:6012 password (36)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data_disk/dyy/python_projects/write_diffusion" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>

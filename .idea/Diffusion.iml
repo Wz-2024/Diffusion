@@ -2,7 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Remote Python 3.12.4 (sftp://dyy@222.19.236.156:6012/data_disk/dyy/miniconda3/envs/Wz/bin/python3.12)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.12.5 (sftp://dyy@222.19.236.156:6012/data_disk/dyy/miniconda3/envs/Wzz/bin/python3.12)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
