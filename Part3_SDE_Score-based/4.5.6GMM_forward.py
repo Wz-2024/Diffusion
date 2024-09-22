@@ -113,6 +113,6 @@ if __name__ == '__main__':
     sns.kdeplot(x=x_traj[:, 0, -1], y=x_traj[:, 1, -1], ax=axs[1])
     axs[1].set_title(f'Density of $x_T$ samples after {nsteps} step diffusion')
     axs[1].axis('equal')
-    # axs[1].legend()
+    axs[1].legend()
     plt.show()
     plt.savefig('target_dist_iterative_and_analytical_dist.png')
