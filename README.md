@@ -1,5 +1,6 @@
-#### Diffison Model的基础入门
-1.完成了Diffuser的简单调用\
-2.手写高斯混合模型，并且嵌入到了带Attention的UNet中\
-3.试图完成手写Conditioned Diffusion Model\
-赏脸看看Diffusion Model From Scratch 这篇文章（ArXiv可检索）
+#### Diffusion入门级代码，完成了以下内容：
+1.用DDPM和Minist数据集手写了一个非常简单的unconditioned-diffison代码\
+2.使用了开源框架Diffuser，不得不说，该框架对于扩撒模型的各种方法封装的非常好，缺点是更新有点快，并且难以察觉，比如数学方法的小更新，官方的说明文档也几乎没怎么说。\
+3.手搓了GMM+Euler_Maruyama，用minist数据集完成了训练。虽然完成的训练任务比较简单，有点大炮打蚊子的意思，但是起码对数学方法有了一些熟悉。\
+
+后期会再开一个库并且写个博客好好讲讲Diffuser这个库，它封装的简直太优美，尤其是对diffusion训练结果的解耦保存（VAE一个文件UNet一个文件）
